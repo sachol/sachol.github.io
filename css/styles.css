@@ -169,6 +169,12 @@ img { max-width: 100%; display: block; }
 .section-title {
   font-size: clamp(1.6rem, 4.5vw, 2.4rem);
 }
+.title-sub {
+  font-size: 0.55em;
+  font-weight: 600;
+  color: var(--muted);
+  letter-spacing: 0;
+}
 .section-desc {
   margin-top: 12px;
   color: var(--muted);

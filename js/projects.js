@@ -130,4 +130,22 @@ const PROJECTS = [
     github: "https://github.com/sachol/dosiajae-n8n-guide",
     demo: "https://sachol.github.io/dosiajae-n8n-guide/",
   },
+  {
+    emoji: "🧭",
+    title: "공인중개사 AI 학습 로드맵 자동 진단",
+    period: "Python · Streamlit · 다중 모듈",
+    desc: "수강생의 설문(주력 매물·관심 업무·AI 숙련도)을 받아 개인화된 4주 AI 학습 로드맵을 자동 생성하고 한글 PDF로 내려받는 진단 웹앱. 응답은 Google Sheets에 누적(미설정 시 SQLite 자동 폴백)되며, 면책 동의 게이트·관리자 모드(CSV 내보내기)까지 갖춘 7개 모듈 구조로 설계했습니다.",
+    tags: ["Python", "Streamlit", "Google Sheets", "PDF(fpdf2)", "pandas"],
+    github: "https://github.com/sachol/shinhwa-ai-realestate-roadmap",
+    demo: "",
+  },
+  {
+    emoji: "🗺️",
+    title: "성수동 임장 분석 대시보드",
+    period: "Vite · JavaScript · RSA 총동문회",
+    desc: "RSA 총동문회 성수동 임장(2026.2) 사전학습을 위한 인터랙티브 웹앱. 하이엔드 주거·브랜딩 상권·IT지식산업·팝업콘텐츠 4개 테마별 AI 분석 프롬프트와 예시 보고서를 한 화면에 정리했습니다.",
+    tags: ["Vite", "JavaScript", "AI 프롬프트", "임장 분석"],
+    github: "https://github.com/sachol/seongsu-imjang",
+    demo: "https://seongsu-imjang.vercel.app",
+  },
 ];
