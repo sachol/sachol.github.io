@@ -1,0 +1,20 @@
+# bkit 런타임/감사 폴더 (배포 불필요)
+.bkit/
+
+# 의존성 (이 프로젝트는 빌드/의존성이 없지만 안전장치)
+node_modules/
+
+# 환경변수·비밀값 (정적 사이트엔 없지만 안전장치)
+.env
+.env.*
+
+# OS / 에디터
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+.gstack/
+
+# 내부 작업 메모 (공개 불필요)
+HANDOFF.md

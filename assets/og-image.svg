@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="신화 · 부동산 × AI">
+  <rect width="1200" height="630" fill="#FFFFFF"/>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <defs>
+    <radialGradient id="g" cx="85%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#FFF7CC"/>
+      <stop offset="60%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- 로고 마크 -->
+  <rect x="96" y="96" width="96" height="96" rx="24" fill="#FFD600"/>
+  <text x="144" y="144" text-anchor="middle" dominant-baseline="central"
+        font-family="'Pretendard Variable', Pretendard, sans-serif" font-size="52" font-weight="800" fill="#171717">신</text>
+
+  <!-- 메인 카피 -->
+  <text x="96" y="320" font-family="'Pretendard Variable', Pretendard, sans-serif"
+        font-size="84" font-weight="800" fill="#171717" letter-spacing="-2">부동산 업무를</text>
+  <text x="96" y="424" font-family="'Pretendard Variable', Pretendard, sans-serif"
+        font-size="84" font-weight="800" fill="#171717" letter-spacing="-2">
+    <tspan>AI로 혁신하는 </tspan><tspan fill="#171717">공인중개사</tspan>
+  </text>
+  <rect x="96" y="442" width="430" height="22" fill="#FFD600" opacity="0.85"/>
+
+  <!-- 서브 -->
+  <text x="100" y="540" font-family="'JetBrains Mono', monospace"
+        font-size="30" font-weight="500" fill="#6B7280">신화 · 공인중개사 · AI 강사 · gpters 22기</text>
+</svg>

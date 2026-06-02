@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="신화 로고">
+  <rect width="64" height="64" rx="16" fill="#FFD600"/>
+  <text x="50%" y="50%" dy="0.02em" text-anchor="middle" dominant-baseline="central"
+        font-family="'Pretendard Variable', Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif"
+        font-size="34" font-weight="800" fill="#171717">신</text>
+</svg>
