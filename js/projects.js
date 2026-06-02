@@ -70,11 +70,11 @@ const PROJECTS = [
   {
     emoji: "📰",
     title: "부동산 아침 브리핑 크롤러",
-    period: "Python · Streamlit · 자동화",
+    period: "Python · Streamlit · 진행 중",
     desc: "Windows 작업 스케줄러로 매일 오전 8시 자동 실행되어, 부동산 뉴스·실거래가·기준금리·인기뉴스를 수집하고 아침 브리핑을 만들어 텔레그램·메일로 자동 발송합니다. 수집→필터→저장→보고서→알림을 계층형 아키텍처(Repository 패턴·추상 인터페이스·불변 dataclass)로 설계했습니다.",
     tags: ["Python", "Streamlit", "작업 스케줄러", "공공데이터 API", "Telegram"],
     github: "https://github.com/sachol/budongsan-crawler",
-    demo: "", // 로컬에서 도는 자동화 스크립트라 웹 데모 없음 (Streamlit Cloud 배포 시 입력)
+    demo: "https://budongsan-crawler-briefing.streamlit.app/", // Streamlit Cloud 배포 데모
   },
   {
     emoji: "⚡",
