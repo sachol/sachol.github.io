@@ -36,9 +36,15 @@ const SITE = {
     },
     {
       icon: "🎓",
-      label: "gpters",
-      value: "gpters 22기 AI 강사",
-      href: "", // 👈 gpters 프로필/소개 링크가 있으면 입력
+      label: "강사",
+      value: "해커스-RSA AI 중개실무 강사",
+      href: "",
+    },
+    {
+      icon: "🏛️",
+      label: "포럼",
+      value: "RSA 총동문회 AI 포럼 포럼장",
+      href: "",
     },
     {
       icon: "🐙",
@@ -73,7 +79,7 @@ const PROJECTS = [
   {
     emoji: "⚡",
     title: "공인중개사 5분 입문 — Claude Cowork 가이드",
-    period: "HTML · Tailwind · gpters 22기",
+    period: "HTML · Tailwind · 강의 자료",
     desc: "공인중개사가 5분 안에 AI(Claude Cowork)를 따라 할 수 있는 1페이지 인터랙티브 가이드. 매물 분석·광고·카톡 응대·보고서 4가지 진입점과 폰↔데스크탑 Dispatch 시연, 라이트/다크 모드를 담았습니다.",
     tags: ["HTML", "CSS", "JavaScript", "Tailwind", "반응형", "라이트/다크"],
     github: "https://github.com/sachol/cityuncle-cowork-intro-dashboard",
